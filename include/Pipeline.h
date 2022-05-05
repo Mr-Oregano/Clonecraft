@@ -6,6 +6,7 @@
 #include <unordered_map>
 #include <initializer_list>
 #include <memory>
+#include <string>
 
 enum ShaderType
 {
